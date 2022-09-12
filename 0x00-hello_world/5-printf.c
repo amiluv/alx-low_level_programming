@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * Main: entry point
- * description: printing a string using printf function
- * return: 0
+ * main - Entry point
+ * Description: printing a string using printf function
+ * Return: 0
  */
 int main(void)
 {
